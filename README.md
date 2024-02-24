@@ -1,16 +1,17 @@
 # weather_app_assign
 
-A new Flutter project.
+A weather app that shows the weather for your current location and you can search weather details for other locations as well
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Please add your OpenWeatherApp API KEY here to run the project: https://github.com/utkarshkumar387/weather_app_assign/blob/main/lib/environment_config.dart
 
-A few resources to get you started if this is your first Flutter project:
+class EnvironmentConfig {
+  static const String API_KEY = "Please add your OpenWeatherApp API KEY";
+}
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Weather app working:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/utkarshkumar387/weather_app_assign/assets/57505007/df3912f7-300d-4b63-b27a-b4ce21c690d8
+
+
